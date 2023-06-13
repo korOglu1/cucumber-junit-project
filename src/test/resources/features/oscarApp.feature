@@ -1,6 +1,6 @@
 Feature: Oscar app function
 
-  @wip
+
   Scenario: functionality result title verification
     Given User is on hioscar page
     When user should click Search network
